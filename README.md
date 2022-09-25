@@ -1,4 +1,4 @@
-# Read Me Template 
+# Read Me
 
 # Portfolio
 Guntejghuman
@@ -30,7 +30,7 @@ I BUILD web projects for myself and others. I have a passion for web development
 - Git/Github
 - Atom Text Editor
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#read-me)
 
 ---
 
@@ -45,7 +45,7 @@ There is no installation required for this project.
 ```JavaScript
     const guntejGhuman = "AWESOME!!";
 ```
-[Back To The Top](#read-me-template)
+[Back To The Top](#read-me)
 
 ---
 
@@ -53,7 +53,7 @@ There is no installation required for this project.
 - Github - [@Guntej](https://github.com/Guntej)
 - Website - [Guntej Ghuman](https://guntejghuman.ca/)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#read-me)
 
 
 ---
@@ -82,7 +82,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#read-me)
 
 ---
 
@@ -92,4 +92,4 @@ SOFTWARE.
 - Website - [Guntej Ghuman](https://guntejghuman.ca/)
 - LinkedIn - [Guntej Ghuman](https://linkedin.com/in/guntejghuman)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#read-me)
